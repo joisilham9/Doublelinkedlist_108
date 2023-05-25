@@ -154,8 +154,6 @@ void Doublelinkedlist::revtraverse() {
 	
 }
 
-
-
 void Doublelinkedlist::searchData() {
 		if (listEmpty() == true) {
 			cout << "\nlist is empty" << endl;
