@@ -211,7 +211,7 @@ int main() {
 			default:
 				cout << "\nInvalid option " << endl;
 				break;
-			}
+			} 
 
 		}
 		catch (exception& e) {
