@@ -10,6 +10,7 @@ public:
 	Node* prev;
 };
 
+
 class Doublelinkedlist {
 private: 
 	Node* START;
